@@ -7,7 +7,7 @@ public class Tarea_5_U2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        /*
+        
         System.out.println("---------------------------");
         System.out.println("     Type your height: ");
         System.out.println("---------------------------");
@@ -43,7 +43,7 @@ public class Tarea_5_U2 {
         System.out.println("2---------------------------2");
         System.out.println("Total Salary is: " + salary);
         System.out.println("2---------------------------2");
-        */
+        
        Taxes calculator = new Taxes();
        System.out.println("---------------------------");
         System.out.println("Please provide your information");
