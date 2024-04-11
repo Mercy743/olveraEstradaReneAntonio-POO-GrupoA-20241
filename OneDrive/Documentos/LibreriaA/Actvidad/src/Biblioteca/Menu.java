@@ -19,7 +19,7 @@ public class Menu {
     public static void ejecutarMenu(){
        boolean bandera = true;
        do{
-           System.out.println("\n BIENVENIDOS AL CUM");
+           System.out.println("\n BIENVENIDOS A LA BIBLIOTECA");
            System.out.println("1. Registrar Producto");
            System.out.println("2. Registrar Cliente");
            System.out.println("3. Mostrar Productos");
