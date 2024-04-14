@@ -3,7 +3,7 @@ package store.herencia;
 import java.util.Scanner;
 
 public class SystemStore {
-    private final String secure_password = "";
+    private final String secure_password = "thisisnotasecurepassword";
     private Scanner sc = new Scanner(System.in);
     private Store store = new Store();
 
