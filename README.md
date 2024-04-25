@@ -1,2 +1,1 @@
-# olveraEstradaReneAntonio-POO-GrupoA-20241
-# olveraEstradaReneAntonio-POO-GrupoA-20241
+Realizar un programa que tenga una clase llamada Shape y crear otras 4 clases adicionales que hereden de ella. La clase Shape va a tener métodos para calcular el perimetro y el área, estos métodos deben de existir en las clases hijas pero deben de realizar una acción diferente dependiendo del tipo de figura que sean.
