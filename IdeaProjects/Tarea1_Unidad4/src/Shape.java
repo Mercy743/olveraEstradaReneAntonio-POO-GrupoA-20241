@@ -1,7 +1,7 @@
-public abstract class Shape {
+public interface Shape {
 
-public abstract double calcularArea();
+public double calcularArea();
 
-public abstract double calcularPerimetro();
+public double calcularPerimetro();
 
 }
