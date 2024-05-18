@@ -1,0 +1,42 @@
+{
+  "CLIENTE": [
+    {
+      "fechaRegistro": "2024-05-17",
+      "id": 4,
+      "nombre": "Pedro",
+      "apellido": "Ballesteros",
+      "rol": "CLIENTE",
+      "fechaNacimiento": "2024-05-17",
+      "contraseña": "C1",
+      "nombreUsuario": "44",
+      "numeroTelefono": "4433667700"
+    }
+  ],
+  "GERENTE": [
+    {
+      "sueldo": 200000.0,
+      "id": 3,
+      "nombre": "Juan",
+      "apellido": "Garcia",
+      "rol": "GERENTE",
+      "fechaNacimiento": "2024-05-17",
+      "contraseña": "34",
+      "nombreUsuario": "G1",
+      "numeroTelefono": "5546789822"
+    }
+  ],
+  "TRABAJADOR": [
+    {
+      "sueldo": 15000.0,
+      "fechaRegistro": "2024-05-17",
+      "id": 2,
+      "nombre": "Carlos",
+      "apellido": "Rivera",
+      "rol": "TRABAJADOR",
+      "fechaNacimiento": "2024-05-17",
+      "contraseña": "24",
+      "nombreUsuario": "4434678134",
+      "numeroTelefono": "T1"
+    }
+  ]
+}

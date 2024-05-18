@@ -1,0 +1,41 @@
+{
+  "Comedia": [
+    {
+      "subGeneroComedia": "Tragica",
+      "id": 0,
+      "nombre": "¡Guía del autopista galáctico!",
+      "autor": "Douglas Adams",
+      "editorial": "Anagrama",
+      "fechaDePublicacion": "1979-10-12",
+      "genero": "Comedia",
+      "precio": 149.99,
+      "stock": 300
+    }
+  ],
+  "Terror": [
+    {
+      "subgenero": "Crimen",
+      "id": 0,
+      "nombre": "IT",
+      "autor": "Stephen King",
+      "editorial": "Plaza Janés",
+      "fechaDePublicacion": "1986-08-15",
+      "genero": "Terror",
+      "precio": 169.98,
+      "stock": 1
+    }
+  ],
+  "Accion": [
+    {
+      "subgenero": "Aventura",
+      "id": 0,
+      "nombre": "Inferno",
+      "autor": "Dam Brown",
+      "editorial": "Planeta",
+      "fechaDePublicacion": "2013-05-14",
+      "genero": "Accion",
+      "precio": 199.99,
+      "stock": 150
+    }
+  ]
+}
